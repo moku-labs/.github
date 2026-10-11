@@ -12,8 +12,8 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [0](https://github.com/moku-labs/claude/pulls) | — |
 | [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.10](https://github.com/moku-labs/common/releases/tag/v0.3.10) | 0.3.10 | 0 | [0](https://github.com/moku-labs/common/pulls) | — |
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
-| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [0](https://github.com/moku-labs/demos/pulls) | — |
-| [editor](https://github.com/moku-labs/editor) | [🔴](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.10](https://github.com/moku-labs/editor/releases/tag/v0.10.10) | 0.10.10 | 0 | [0](https://github.com/moku-labs/editor/pulls) | game 0.14.11 |
+| [demos](https://github.com/moku-labs/demos) | [🟡](https://github.com/moku-labs/demos/actions) | — | — | — | — | [0](https://github.com/moku-labs/demos/pulls) | — |
+| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟡](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.11](https://github.com/moku-labs/editor/releases/tag/v0.10.11) | 0.10.10 | 0 | [0](https://github.com/moku-labs/editor/pulls) | — |
 | [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.14.12](https://github.com/moku-labs/game/releases/tag/v0.14.12) | 0.14.12 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.8](https://github.com/moku-labs/native/releases/tag/v0.3.8) | 0.3.8 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.9](https://github.com/moku-labs/room/releases/tag/v0.8.9) | 0.8.9 | 0 | [0](https://github.com/moku-labs/room/pulls) | — |
@@ -23,7 +23,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 
 **Waits for a person**
 
-- [editor](https://github.com/moku-labs/editor): CI is red on main
+- [editor](https://github.com/moku-labs/editor): npm serves 0.10.10, the tag is v0.10.11
 
 <details>
 <summary>Toolchain: 22 shared tools, 10 on more than one version, 19 behind npm</summary>
