@@ -2,7 +2,7 @@
 
 **A micro-kernel for TypeScript apps, and the frameworks built on it.**
 
-The table is written by a workflow every hour, from `moku-release fleet` of [`@moku-labs/ci`](https://github.com/moku-labs/ci).
+The table is written by a workflow every 15 minutes, from `moku-release fleet` of [`@moku-labs/ci`](https://github.com/moku-labs/ci).
 
 <!-- fleet:start -->
 | Repo | CI | Release | Tag | npm | Not released | PRs | Old pins |
