@@ -41,7 +41,7 @@ Nothing waits.
 | @vitest/coverage-istanbul | 4.0.18 | 5.0.3 | 11 | — |
 | bun | 1.4.3 | 1.4.3 | 10 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
-| eslint-plugin-jsdoc | 62.6.0 | 65.2.4 | 11 | — |
+| eslint-plugin-jsdoc | 62.6.0 | 65.3.0 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
 | eslint-plugin-unicorn | 63.0.0 | 77.0.0 | 11 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
