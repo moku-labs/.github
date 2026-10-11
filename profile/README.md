@@ -27,10 +27,3 @@ The table is written by a workflow every hour, from `moku-release fleet` of [`@m
 - [ci](https://github.com/moku-labs/ci): npm serves 1.5.1, the tag is v1.5.2
 - [demos](https://github.com/moku-labs/demos): PR #66 has red checks
 <!-- fleet:end -->
-
-| Mark | Meaning |
-| --- | --- |
-| 🟢 | passed |
-| 🔴 | failed |
-| 🟡 | running |
-| — | does not apply |
