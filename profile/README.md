@@ -12,9 +12,9 @@ The table is written by a workflow every hour, from `moku-release fleet` of [`@m
 | [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [0](https://github.com/moku-labs/claude/pulls) | — |
 | [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.7](https://github.com/moku-labs/common/releases/tag/v0.3.7) | 0.3.7 | 0 | [0](https://github.com/moku-labs/common/pulls) | ci 1.3.0, core 1.7.1 |
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.5](https://github.com/moku-labs/core/releases/tag/v1.7.5) | 1.7.5 | 0 | [0](https://github.com/moku-labs/core/pulls) | ci 1.5.2 |
-| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [2 (2 red)](https://github.com/moku-labs/demos/pulls) | — |
-| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.2](https://github.com/moku-labs/editor/releases/tag/v0.10.2) | 0.10.2 | 0 | [1](https://github.com/moku-labs/editor/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1, game 0.13.1 |
-| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.14.2](https://github.com/moku-labs/game/releases/tag/v0.14.2) | 0.14.2 | 0 | [1 (1 red)](https://github.com/moku-labs/game/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1, native 0.3.2, system 0.3.1 |
+| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 red)](https://github.com/moku-labs/demos/pulls) | — |
+| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.5](https://github.com/moku-labs/editor/releases/tag/v0.10.5) | 0.10.5 | 0 | [0](https://github.com/moku-labs/editor/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1, game 0.13.1 |
+| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.14.3](https://github.com/moku-labs/game/releases/tag/v0.14.3) | 0.14.3 | 0 | [1 (1 red)](https://github.com/moku-labs/game/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1, native 0.3.2, system 0.3.1 |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.5](https://github.com/moku-labs/native/releases/tag/v0.3.5) | 0.3.5 | 0 | [0](https://github.com/moku-labs/native/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1 |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.6](https://github.com/moku-labs/room/releases/tag/v0.8.6) | 0.8.6 | 0 | [0](https://github.com/moku-labs/room/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1, worker 0.20.3 |
 | [system](https://github.com/moku-labs/system) | [🟢](https://github.com/moku-labs/system/actions) | [🟢](https://github.com/moku-labs/system/actions/workflows/publish.yml) | [v0.3.4](https://github.com/moku-labs/system/releases/tag/v0.3.4) | 0.3.4 | 0 | [0](https://github.com/moku-labs/system/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1 |
@@ -23,9 +23,7 @@ The table is written by a workflow every hour, from `moku-release fleet` of [`@m
 
 **Waits for a person**
 
-- [demos](https://github.com/moku-labs/demos): PR #66 has red checks
 - [demos](https://github.com/moku-labs/demos): PR #67 has red checks
-- [editor](https://github.com/moku-labs/editor): PR #42 is green and not merged
 - [game](https://github.com/moku-labs/game): PR #54 has red checks
 
 <details>
