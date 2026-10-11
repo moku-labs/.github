@@ -7,21 +7,71 @@ The table is written by a workflow every hour, from `moku-release fleet` of [`@m
 <!-- fleet:start -->
 | Repo | CI | Release | Tag | npm | Not released | PRs | Old pins |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ai](https://github.com/moku-labs/ai) | [🟢](https://github.com/moku-labs/ai/actions) | [🟢](https://github.com/moku-labs/ai/actions/workflows/publish.yml) | [v0.16.4](https://github.com/moku-labs/ai/releases/tag/v0.16.4) | 0.16.4 | 0 | [0](https://github.com/moku-labs/ai/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1 |
-| [ci](https://github.com/moku-labs/ci) | [🟢](https://github.com/moku-labs/ci/actions) | [🟢](https://github.com/moku-labs/ci/actions/workflows/publish.yml) | [v1.5.2](https://github.com/moku-labs/ci/releases/tag/v1.5.2) | 1.5.2 | 0 | [0](https://github.com/moku-labs/ci/pulls) | common 0.3.4 |
-| [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [1](https://github.com/moku-labs/claude/pulls) | — |
-| [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.6](https://github.com/moku-labs/common/releases/tag/v0.3.6) | 0.3.6 | 0 | [0](https://github.com/moku-labs/common/pulls) | ci 1.3.0, core 1.7.1 |
-| [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.2](https://github.com/moku-labs/core/releases/tag/v1.7.2) | 1.7.2 | 0 | [0](https://github.com/moku-labs/core/pulls) | ci 1.2.6 |
-| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 red)](https://github.com/moku-labs/demos/pulls) | — |
-| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.1](https://github.com/moku-labs/editor/releases/tag/v0.10.1) | 0.10.1 | 0 | [0](https://github.com/moku-labs/editor/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1, game 0.13.1 |
-| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.14.2](https://github.com/moku-labs/game/releases/tag/v0.14.2) | 0.14.2 | 0 | [0](https://github.com/moku-labs/game/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1, native 0.3.2, system 0.3.1 |
-| [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.4](https://github.com/moku-labs/native/releases/tag/v0.3.4) | 0.3.4 | 0 | [0](https://github.com/moku-labs/native/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1 |
-| [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.5](https://github.com/moku-labs/room/releases/tag/v0.8.5) | 0.8.5 | 0 | [0](https://github.com/moku-labs/room/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1, worker 0.20.3 |
-| [system](https://github.com/moku-labs/system) | [🟢](https://github.com/moku-labs/system/actions) | [🟢](https://github.com/moku-labs/system/actions/workflows/publish.yml) | [v0.3.3](https://github.com/moku-labs/system/releases/tag/v0.3.3) | 0.3.3 | 0 | [0](https://github.com/moku-labs/system/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1 |
-| [web](https://github.com/moku-labs/web) | [🟢](https://github.com/moku-labs/web/actions) | [🟢](https://github.com/moku-labs/web/actions/workflows/publish.yml) | [v2.4.6](https://github.com/moku-labs/web/releases/tag/v2.4.6) | 2.4.6 | 0 | [0](https://github.com/moku-labs/web/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1 |
-| [worker](https://github.com/moku-labs/worker) | [🟢](https://github.com/moku-labs/worker/actions) | [🟢](https://github.com/moku-labs/worker/actions/workflows/publish.yml) | [v0.20.5](https://github.com/moku-labs/worker/releases/tag/v0.20.5) | 0.20.5 | 0 | [0](https://github.com/moku-labs/worker/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1 |
+| [ai](https://github.com/moku-labs/ai) | [🟢](https://github.com/moku-labs/ai/actions) | [🟢](https://github.com/moku-labs/ai/actions/workflows/publish.yml) | [v0.16.5](https://github.com/moku-labs/ai/releases/tag/v0.16.5) | 0.16.5 | 0 | [0](https://github.com/moku-labs/ai/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1 |
+| [ci](https://github.com/moku-labs/ci) | [🟢](https://github.com/moku-labs/ci/actions) | [🟢](https://github.com/moku-labs/ci/actions/workflows/publish.yml) | [v1.5.5](https://github.com/moku-labs/ci/releases/tag/v1.5.5) | 1.5.5 | 0 | [0](https://github.com/moku-labs/ci/pulls) | common 0.3.6 |
+| [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [0](https://github.com/moku-labs/claude/pulls) | — |
+| [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.7](https://github.com/moku-labs/common/releases/tag/v0.3.7) | 0.3.7 | 0 | [0](https://github.com/moku-labs/common/pulls) | ci 1.3.0, core 1.7.1 |
+| [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.5](https://github.com/moku-labs/core/releases/tag/v1.7.5) | 1.7.5 | 0 | [0](https://github.com/moku-labs/core/pulls) | ci 1.5.2 |
+| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [2 (2 red)](https://github.com/moku-labs/demos/pulls) | — |
+| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.2](https://github.com/moku-labs/editor/releases/tag/v0.10.2) | 0.10.2 | 0 | [1](https://github.com/moku-labs/editor/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1, game 0.13.1 |
+| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.14.2](https://github.com/moku-labs/game/releases/tag/v0.14.2) | 0.14.2 | 0 | [1 (1 red)](https://github.com/moku-labs/game/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1, native 0.3.2, system 0.3.1 |
+| [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.5](https://github.com/moku-labs/native/releases/tag/v0.3.5) | 0.3.5 | 0 | [0](https://github.com/moku-labs/native/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1 |
+| [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.6](https://github.com/moku-labs/room/releases/tag/v0.8.6) | 0.8.6 | 0 | [0](https://github.com/moku-labs/room/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1, worker 0.20.3 |
+| [system](https://github.com/moku-labs/system) | [🟢](https://github.com/moku-labs/system/actions) | [🟢](https://github.com/moku-labs/system/actions/workflows/publish.yml) | [v0.3.4](https://github.com/moku-labs/system/releases/tag/v0.3.4) | 0.3.4 | 0 | [0](https://github.com/moku-labs/system/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1 |
+| [web](https://github.com/moku-labs/web) | [🟢](https://github.com/moku-labs/web/actions) | [🟢](https://github.com/moku-labs/web/actions/workflows/publish.yml) | [v2.4.7](https://github.com/moku-labs/web/releases/tag/v2.4.7) | 2.4.7 | 0 | [0](https://github.com/moku-labs/web/pulls) | ci 1.3.0, common 0.3.4, core 1.7.1 |
+| [worker](https://github.com/moku-labs/worker) | [🟢](https://github.com/moku-labs/worker/actions) | [🟢](https://github.com/moku-labs/worker/actions/workflows/publish.yml) | [v0.20.6](https://github.com/moku-labs/worker/releases/tag/v0.20.6) | 0.20.6 | 0 | [0](https://github.com/moku-labs/worker/pulls) | ci 1.4.0, common 0.3.4, core 1.7.1 |
 
 **Waits for a person**
 
 - [demos](https://github.com/moku-labs/demos): PR #66 has red checks
+- [demos](https://github.com/moku-labs/demos): PR #67 has red checks
+- [editor](https://github.com/moku-labs/editor): PR #42 is green and not merged
+- [game](https://github.com/moku-labs/game): PR #54 has red checks
+
+<details>
+<summary>Toolchain: 22 shared tools, 11 on more than one version, 19 behind npm</summary>
+
+| Tool | Accepted | npm | Used by | Not on it |
+| --- | --- | --- | --- | --- |
+| @arethetypeswrong/cli | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
+| @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
+| @biomejs/biome | 2.4.16 | 2.5.15 | 11 | core 2.4.2 |
+| @cloudflare/workers-types | 4.20260621.1 | 5.20261011.1 | 2 | worker 4.20260617.1 |
+| @playwright/test | 1.63.0 | 1.64.0 | 2 | room 1.61.0 |
+| @types/bun | 1.4.2 | 1.4.2 | 11 | ci 1.3.14 |
+| bun | 1.4.3 | 1.4.3 | 10 | game 1.4.2 |
+| eslint | 9.39.3 | 10.12.0 | 11 | core 9 |
+| globals | 17.4.0 | 17.13.0 | 11 | core 17.3.0 |
+| happy-dom | 20.14.5 | 20.14.6 | 2 | web 20.9.0 |
+| publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
+| @vitest/coverage-istanbul | 4.0.18 | 5.0.3 | 11 | — |
+| eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
+| eslint-plugin-jsdoc | 62.6.0 | 65.2.4 | 11 | — |
+| eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
+| eslint-plugin-unicorn | 63.0.0 | 77.0.0 | 11 | — |
+| jiti | 2.6.1 | 2.7.0 | 11 | — |
+| lefthook | 2.1.1 | 2.2.1 | 10 | — |
+| tsdown | 0.22.1 | 0.23.1 | 11 | — |
+| typescript | 6.0.3 | 7.0.2 | 11 | — |
+| typescript-eslint | 8.58.0 | 8.71.1 | 11 | — |
+| vitest | 4.0.18 | 5.0.3 | 11 | — |
+
+</details>
+
+<details>
+<summary>Runtime dependencies: 9 behind npm</summary>
+
+| Package | Repo | Version | npm |
+| --- | --- | --- | --- |
+| @shikijs/rehype | web | 3.22.0 | 4.5.0 |
+| better-sqlite3 | ai | 12.11.1 | 13.0.3 |
+| feed | web | 5.2.0 | 6.0.0 |
+| immer | game | 11.1.18 | 11.1.21 |
+| openai | ai | ^6.45.0 | 7.32.0 |
+| p-limit | web | 6.2.0 | 7.3.3 |
+| preact | editor | 10.29.8 | 11.0.1 |
+| satori | web | 0.19.1 | 0.47.1 |
+| shiki | web | 3.22.0 | 4.5.0 |
+
+</details>
 <!-- fleet:end -->
