@@ -12,7 +12,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [0](https://github.com/moku-labs/claude/pulls) | — |
 | [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.10](https://github.com/moku-labs/common/releases/tag/v0.3.10) | 0.3.10 | 0 | [0](https://github.com/moku-labs/common/pulls) | — |
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
-| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [0](https://github.com/moku-labs/demos/pulls) | — |
+| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 bot)](https://github.com/moku-labs/demos/pulls) | — |
 | [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.11](https://github.com/moku-labs/editor/releases/tag/v0.10.11) | 0.10.11 | 0 | [0](https://github.com/moku-labs/editor/pulls) | — |
 | [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.14.12](https://github.com/moku-labs/game/releases/tag/v0.14.12) | 0.14.12 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.8](https://github.com/moku-labs/native/releases/tag/v0.3.8) | 0.3.8 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
@@ -21,7 +21,9 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [web](https://github.com/moku-labs/web) | [🟢](https://github.com/moku-labs/web/actions) | [🟢](https://github.com/moku-labs/web/actions/workflows/publish.yml) | [v2.4.10](https://github.com/moku-labs/web/releases/tag/v2.4.10) | 2.4.10 | 0 | [0](https://github.com/moku-labs/web/pulls) | — |
 | [worker](https://github.com/moku-labs/worker) | [🟢](https://github.com/moku-labs/worker/actions) | [🟢](https://github.com/moku-labs/worker/actions/workflows/publish.yml) | [v0.20.9](https://github.com/moku-labs/worker/releases/tag/v0.20.9) | 0.20.9 | 0 | [0](https://github.com/moku-labs/worker/pulls) | — |
 
-Nothing waits.
+**Waits for a person**
+
+- [demos](https://github.com/moku-labs/demos): PR #73 is green and not merged
 
 <details>
 <summary>Toolchain: 22 shared tools, 10 on more than one version, 20 behind npm</summary>
@@ -38,18 +40,18 @@ Nothing waits.
 | globals | 17.4.0 | 17.13.0 | 11 | core 17.3.0 |
 | happy-dom | 20.14.5 | 21.0.1 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
-| @vitest/coverage-istanbul | 4.0.18 | 5.0.3 | 11 | — |
+| @vitest/coverage-istanbul | 4.0.18 | 5.0.4 | 11 | — |
 | bun | 1.4.3 | 1.4.3 | 10 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
-| eslint-plugin-jsdoc | 62.6.0 | 65.3.0 | 11 | — |
+| eslint-plugin-jsdoc | 62.6.0 | 65.3.1 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
-| eslint-plugin-unicorn | 63.0.0 | 77.0.0 | 11 | — |
+| eslint-plugin-unicorn | 63.0.0 | 78.0.0 | 11 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
 | lefthook | 2.1.1 | 2.2.1 | 10 | — |
 | tsdown | 0.22.1 | 0.23.1 | 11 | — |
 | typescript | 6.0.3 | 7.0.2 | 11 | — |
-| typescript-eslint | 8.58.0 | 8.71.1 | 11 | — |
-| vitest | 4.0.18 | 5.0.3 | 11 | — |
+| typescript-eslint | 8.58.0 | 8.71.2 | 11 | — |
+| vitest | 4.0.18 | 5.0.4 | 11 | — |
 
 </details>
 
@@ -65,7 +67,7 @@ Nothing waits.
 | openai | ai | ^6.45.0 | 7.32.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.0.1 |
-| satori | web | 0.19.1 | 0.48.1 |
+| satori | web | 0.19.1 | 0.51.0 |
 | shiki | web | 3.22.0 | 4.5.0 |
 
 </details>
