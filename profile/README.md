@@ -31,12 +31,12 @@ Nothing waits.
 | @arethetypeswrong/cli | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @biomejs/biome | 2.4.16 | 2.5.15 | 11 | core 2.4.2 |
-| @cloudflare/workers-types | 4.20260621.1 | 5.20261011.1 | 2 | worker 4.20260617.1 |
+| @cloudflare/workers-types | 4.20260621.1 | 5.20261012.1 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.63.0 | 1.64.0 | 2 | room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.2 | 11 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.12.0 | 11 | core 9 |
 | globals | 17.4.0 | 17.13.0 | 11 | core 17.3.0 |
-| happy-dom | 20.14.5 | 20.14.6 | 2 | web 20.9.0 |
+| happy-dom | 20.14.5 | 21.0.1 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.0.3 | 11 | — |
 | bun | 1.4.3 | 1.4.3 | 10 | — |
