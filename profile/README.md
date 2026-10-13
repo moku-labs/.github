@@ -33,7 +33,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @arethetypeswrong/cli | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @biomejs/biome | 2.4.16 | 2.5.15 | 11 | core 2.4.2 |
-| @cloudflare/workers-types | 4.20260621.1 | 5.20261012.1 | 2 | worker 4.20260617.1 |
+| @cloudflare/workers-types | 4.20260621.1 | 5.20261013.1 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.63.0 | 1.64.0 | 2 | room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.3 | 11 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.12.0 | 11 | core 9 |
@@ -67,7 +67,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | openai | ai | ^6.45.0 | 7.32.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.0.1 |
-| satori | web | 0.19.1 | 0.51.0 |
+| satori | web | 0.19.1 | 0.52.0 |
 | shiki | web | 3.22.0 | 4.5.0 |
 
 </details>
