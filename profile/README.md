@@ -43,11 +43,11 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @vitest/coverage-istanbul | 4.0.18 | 5.0.4 | 11 | — |
 | bun | 1.4.3 | 1.4.3 | 10 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
-| eslint-plugin-jsdoc | 62.6.0 | 65.3.1 | 11 | — |
+| eslint-plugin-jsdoc | 62.6.0 | 65.3.2 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
 | eslint-plugin-unicorn | 63.0.0 | 78.0.0 | 11 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
-| lefthook | 2.1.1 | 2.2.1 | 10 | — |
+| lefthook | 2.1.1 | 2.2.2 | 10 | — |
 | tsdown | 0.22.1 | 0.23.1 | 11 | — |
 | typescript | 6.0.3 | 7.0.2 | 11 | — |
 | typescript-eslint | 8.58.0 | 8.71.2 | 11 | — |
@@ -67,7 +67,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | openai | ai | ^6.45.0 | 7.32.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.0.1 |
-| satori | web | 0.19.1 | 0.52.0 |
+| satori | web | 0.19.1 | 0.55.3 |
 | shiki | web | 3.22.0 | 4.5.0 |
 
 </details>
