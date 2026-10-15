@@ -40,10 +40,10 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | globals | 17.4.0 | 17.13.0 | 11 | core 17.3.0 |
 | happy-dom | 20.14.5 | 21.0.1 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
-| @vitest/coverage-istanbul | 4.0.18 | 5.0.4 | 11 | — |
+| @vitest/coverage-istanbul | 4.0.18 | 5.0.5 | 11 | — |
 | bun | 1.4.3 | 1.4.3 | 10 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
-| eslint-plugin-jsdoc | 62.6.0 | 65.3.4 | 11 | — |
+| eslint-plugin-jsdoc | 62.6.0 | 65.3.6 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
 | eslint-plugin-unicorn | 63.0.0 | 78.0.0 | 11 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
@@ -51,7 +51,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | tsdown | 0.22.1 | 0.23.1 | 11 | — |
 | typescript | 6.0.3 | 7.0.2 | 11 | — |
 | typescript-eslint | 8.58.0 | 8.71.2 | 11 | — |
-| vitest | 4.0.18 | 5.0.4 | 11 | — |
+| vitest | 4.0.18 | 5.0.5 | 11 | — |
 
 </details>
 
@@ -68,7 +68,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | openai | ai | ^6.45.0 | 7.34.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.0.1 |
-| satori | web | 0.19.1 | 0.59.1 |
+| satori | web | 0.19.1 | 0.60.0 |
 | shiki | web | 3.22.0 | 4.5.0 |
 
 </details>
