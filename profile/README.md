@@ -14,7 +14,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
 | [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 red)](https://github.com/moku-labs/demos/pulls) | — |
 | [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.11](https://github.com/moku-labs/editor/releases/tag/v0.10.11) | 0.10.11 | 0 | [1](https://github.com/moku-labs/editor/pulls) | game 0.14.12 |
-| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.0](https://github.com/moku-labs/game/releases/tag/v0.15.0) | 0.15.0 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
+| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.1](https://github.com/moku-labs/game/releases/tag/v0.15.1) | 0.15.1 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.9](https://github.com/moku-labs/native/releases/tag/v0.3.9) | 0.3.9 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.9](https://github.com/moku-labs/room/releases/tag/v0.8.9) | 0.8.9 | 0 | [0](https://github.com/moku-labs/room/pulls) | — |
 | [system](https://github.com/moku-labs/system) | [🟢](https://github.com/moku-labs/system/actions) | [🟢](https://github.com/moku-labs/system/actions/workflows/publish.yml) | [v0.3.7](https://github.com/moku-labs/system/releases/tag/v0.3.7) | 0.3.7 | 0 | [0](https://github.com/moku-labs/system/pulls) | — |
@@ -34,14 +34,14 @@ Nothing waits.
 | @cloudflare/workers-types | 4.20260621.1 | 5.20261016.1 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.63.0 | 1.64.1 | 2 | room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.3 | 11 | ci 1.3.14 |
-| eslint | 9.39.3 | 10.12.0 | 11 | core 9 |
+| eslint | 9.39.3 | 10.13.0 | 11 | core 9 |
 | globals | 17.4.0 | 17.13.0 | 11 | core 17.3.0 |
 | happy-dom | 20.14.5 | 21.0.3 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.0.5 | 11 | — |
 | bun | 1.4.3 | 1.4.3 | 10 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
-| eslint-plugin-jsdoc | 62.6.0 | 65.3.6 | 11 | — |
+| eslint-plugin-jsdoc | 62.6.0 | 65.3.8 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
 | eslint-plugin-unicorn | 63.0.0 | 78.0.0 | 11 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
