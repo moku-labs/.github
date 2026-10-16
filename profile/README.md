@@ -66,7 +66,7 @@ Nothing waits.
 | openai | ai | ^6.45.0 | 7.34.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.0.1 |
-| satori | web | 0.19.1 | 0.60.0 |
+| satori | web | 0.19.1 | 0.62.0 |
 | shiki | web | 3.22.0 | 4.5.0 |
 
 </details>
