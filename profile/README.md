@@ -13,7 +13,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.10](https://github.com/moku-labs/common/releases/tag/v0.3.10) | 0.3.10 | 0 | [0](https://github.com/moku-labs/common/pulls) | — |
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
 | [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 bot)](https://github.com/moku-labs/demos/pulls) | — |
-| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.12](https://github.com/moku-labs/editor/releases/tag/v0.10.12) | 0.10.12 | 0 | [0](https://github.com/moku-labs/editor/pulls) | — |
+| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.12](https://github.com/moku-labs/editor/releases/tag/v0.10.12) | 0.10.12 | 0 | [1 (1 red, 1 bot)](https://github.com/moku-labs/editor/pulls) | — |
 | [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.9](https://github.com/moku-labs/game/releases/tag/v0.15.9) | 0.15.9 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.9](https://github.com/moku-labs/native/releases/tag/v0.3.9) | 0.3.9 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.9](https://github.com/moku-labs/room/releases/tag/v0.8.9) | 0.8.9 | 0 | [0](https://github.com/moku-labs/room/pulls) | — |
@@ -24,6 +24,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 **Waits for a person**
 
 - [demos](https://github.com/moku-labs/demos): PR #78 is green and not merged
+- [editor](https://github.com/moku-labs/editor): PR #54 has red checks
 
 <details>
 <summary>Toolchain: 22 shared tools, 10 on more than one version, 20 behind npm</summary>
