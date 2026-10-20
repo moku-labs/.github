@@ -39,7 +39,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @types/bun | 1.4.2 | 1.4.3 | 11 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.13.0 | 11 | core 9 |
 | globals | 17.4.0 | 17.13.0 | 11 | core 17.3.0 |
-| happy-dom | 20.14.5 | 21.0.3 | 2 | web 20.9.0 |
+| happy-dom | 20.14.5 | 21.0.4 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.0.5 | 11 | — |
 | bun | 1.4.3 | 1.4.3 | 10 | — |
@@ -64,12 +64,12 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @shikijs/rehype | web | 3.22.0 | 4.5.0 |
 | better-sqlite3 | ai | 12.11.1 | 13.0.3 |
 | feed | web | 5.2.0 | 6.0.0 |
-| immer | game | 11.1.18 | 11.1.21 |
+| immer | game | 11.1.18 | 11.2.3 |
 | maxrects-packer | game | 2.7.3 | 3.0.0 |
 | openai | ai | ^6.45.0 | 7.39.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.0.1 |
-| satori | web | 0.19.1 | 0.63.1 |
+| satori | web | 0.19.1 | 0.63.2 |
 | shiki | web | 3.22.0 | 4.5.0 |
 
 </details>
