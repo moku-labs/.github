@@ -44,7 +44,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @vitest/coverage-istanbul | 4.0.18 | 5.0.5 | 11 | — |
 | bun | 1.4.3 | 1.4.3 | 10 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
-| eslint-plugin-jsdoc | 62.6.0 | 65.3.15 | 11 | — |
+| eslint-plugin-jsdoc | 62.6.0 | 65.4.0 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
 | eslint-plugin-unicorn | 63.0.0 | 78.0.0 | 11 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
