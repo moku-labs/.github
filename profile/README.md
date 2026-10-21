@@ -13,8 +13,8 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.10](https://github.com/moku-labs/common/releases/tag/v0.3.10) | 0.3.10 | 0 | [0](https://github.com/moku-labs/common/pulls) | — |
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
 | [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 bot)](https://github.com/moku-labs/demos/pulls) | — |
-| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.12](https://github.com/moku-labs/editor/releases/tag/v0.10.12) | 0.10.12 | 0 | [2 (1 red, 1 bot)](https://github.com/moku-labs/editor/pulls) | — |
-| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.10](https://github.com/moku-labs/game/releases/tag/v0.15.10) | 0.15.10 | 0 | [2](https://github.com/moku-labs/game/pulls) | — |
+| [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.13](https://github.com/moku-labs/editor/releases/tag/v0.10.13) | 0.10.13 | 0 | [1 (1 red, 1 bot)](https://github.com/moku-labs/editor/pulls) | — |
+| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.12](https://github.com/moku-labs/game/releases/tag/v0.15.12) | 0.15.12 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.9](https://github.com/moku-labs/native/releases/tag/v0.3.9) | 0.3.9 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.9](https://github.com/moku-labs/room/releases/tag/v0.8.9) | 0.8.9 | 0 | [0](https://github.com/moku-labs/room/pulls) | — |
 | [system](https://github.com/moku-labs/system) | [🟢](https://github.com/moku-labs/system/actions) | [🟢](https://github.com/moku-labs/system/actions/workflows/publish.yml) | [v0.3.7](https://github.com/moku-labs/system/releases/tag/v0.3.7) | 0.3.7 | 0 | [0](https://github.com/moku-labs/system/pulls) | — |
@@ -25,9 +25,6 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 
 - [demos](https://github.com/moku-labs/demos): PR #78 is green and not merged
 - [editor](https://github.com/moku-labs/editor): PR #54 has red checks
-- [editor](https://github.com/moku-labs/editor): PR #55 is green and not merged
-- [game](https://github.com/moku-labs/game): PR #75 is green and not merged
-- [game](https://github.com/moku-labs/game): PR #76 is green and not merged
 
 <details>
 <summary>Toolchain: 22 shared tools, 10 on more than one version, 20 behind npm</summary>
@@ -36,7 +33,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | --- | --- | --- | --- | --- |
 | @arethetypeswrong/cli | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
-| @biomejs/biome | 2.4.16 | 2.5.15 | 11 | core 2.4.2 |
+| @biomejs/biome | 2.4.16 | 2.6.2 | 11 | core 2.4.2 |
 | @cloudflare/workers-types | 4.20260621.1 | 5.20261021.1 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.63.0 | 1.64.1 | 2 | room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.3 | 11 | ci 1.3.14 |
