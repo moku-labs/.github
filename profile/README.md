@@ -27,7 +27,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 - [editor](https://github.com/moku-labs/editor): PR #54 has red checks
 
 <details>
-<summary>Toolchain: 22 shared tools, 10 on more than one version, 20 behind npm</summary>
+<summary>Toolchain: 22 shared tools, 10 on more than one version, 21 behind npm</summary>
 
 | Tool | Accepted | npm | Used by | Not on it |
 | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | happy-dom | 20.14.5 | 21.0.4 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.0.5 | 11 | — |
-| bun | 1.4.3 | 1.4.3 | 10 | — |
+| bun | 1.4.3 | 1.4.4 | 10 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
 | eslint-plugin-jsdoc | 62.6.0 | 65.4.0 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
@@ -64,7 +64,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @shikijs/rehype | web | 3.22.0 | 4.5.0 |
 | better-sqlite3 | ai | 12.11.1 | 13.0.3 |
 | feed | web | 5.2.0 | 6.0.0 |
-| immer | game | 11.1.18 | 11.2.7 |
+| immer | game | 11.1.18 | 11.2.9 |
 | maxrects-packer | game | 2.7.3 | 3.0.0 |
 | openai | ai | ^6.45.0 | 7.42.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
