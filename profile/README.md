@@ -44,12 +44,12 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @vitest/coverage-istanbul | 4.0.18 | 5.0.5 | 11 | — |
 | bun | 1.4.3 | 1.4.4 | 10 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
-| eslint-plugin-jsdoc | 62.6.0 | 65.4.1 | 11 | — |
+| eslint-plugin-jsdoc | 62.6.0 | 65.4.2 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
 | eslint-plugin-unicorn | 63.0.0 | 78.0.0 | 11 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
 | lefthook | 2.1.1 | 2.2.2 | 10 | — |
-| tsdown | 0.22.1 | 0.23.1 | 11 | — |
+| tsdown | 0.22.1 | 0.23.2 | 11 | — |
 | typescript | 6.0.3 | 7.0.2 | 11 | — |
 | typescript-eslint | 8.58.0 | 8.72.0 | 11 | — |
 | vitest | 4.0.18 | 5.0.5 | 11 | — |
