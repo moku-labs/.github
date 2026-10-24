@@ -56,7 +56,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 </details>
 
 <details>
-<summary>Runtime dependencies: 10 behind npm</summary>
+<summary>Runtime dependencies: 11 behind npm</summary>
 
 | Package | Repo | Version | npm |
 | --- | --- | --- | --- |
@@ -70,6 +70,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | preact | editor | 10.29.8 | 11.0.2 |
 | satori | web | 0.19.1 | 0.63.2 |
 | shiki | web | 3.22.0 | 4.5.0 |
+| unist-util-visit | web | 5.1.0 | 5.2.0 |
 
 </details>
 <!-- fleet:end -->
