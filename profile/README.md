@@ -50,7 +50,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | eslint-plugin-unicorn | 63.0.0 | 79.0.0 | 11 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
 | lefthook | 2.1.1 | 2.2.2 | 10 | — |
-| tsdown | 0.22.1 | 0.23.3 | 11 | — |
+| tsdown | 0.22.1 | 0.23.4 | 11 | — |
 | typescript | 6.0.3 | 7.0.2 | 11 | — |
 | typescript-eslint | 8.58.0 | 8.72.1 | 11 | — |
 | vitest | 4.0.18 | 5.0.5 | 11 | — |
