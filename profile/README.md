@@ -26,7 +26,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 - [demos](https://github.com/moku-labs/demos): PR #79 is green and not merged
 - [editor](https://github.com/moku-labs/editor): PR #54 has red checks
 - [game](https://github.com/moku-labs/game): PR #115 is green and not merged
-- [game](https://github.com/moku-labs/game): PR #145 is green and not merged
+- [game](https://github.com/moku-labs/game): PR #147 is green and not merged
 
 <details>
 <summary>Toolchain: 22 shared tools, 10 on more than one version, 21 behind npm</summary>
