@@ -12,7 +12,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [0](https://github.com/moku-labs/claude/pulls) | — |
 | [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.10](https://github.com/moku-labs/common/releases/tag/v0.3.10) | 0.3.10 | 0 | [0](https://github.com/moku-labs/common/pulls) | — |
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
-| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 bot)](https://github.com/moku-labs/demos/pulls) | — |
+| [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [0](https://github.com/moku-labs/demos/pulls) | — |
 | [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.20](https://github.com/moku-labs/editor/releases/tag/v0.10.20) | 0.10.20 | 0 | [0](https://github.com/moku-labs/editor/pulls) | — |
 | [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.92](https://github.com/moku-labs/game/releases/tag/v0.15.92) | 0.15.92 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.14](https://github.com/moku-labs/native/releases/tag/v0.3.14) | 0.3.14 | 0 | [1](https://github.com/moku-labs/native/pulls) | — |
@@ -24,14 +24,13 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 
 **Waits for a person**
 
-- [demos](https://github.com/moku-labs/demos): PR #81 is green and not merged
 - [native](https://github.com/moku-labs/native): PR #25 is green and not merged
-- [site](https://github.com/moku-labs/site): PR #4 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #5 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #6 has red checks
 - [site](https://github.com/moku-labs/site): PR #7 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #8 has red checks
 - [site](https://github.com/moku-labs/site): PR #9 is green and not merged
+- [site](https://github.com/moku-labs/site): PR #30 is green and not merged
 
 <details>
 <summary>Toolchain: 26 shared tools, 14 on more than one version, 22 behind npm</summary>
@@ -51,7 +50,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | happy-dom | 20.14.5 | 21.0.4 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | typescript | 6.0.3 | 7.0.2 | 12 | site 7.0.2 |
-| wrangler | 4.103.0 | 4.156.2 | 2 | site 4.95.0 |
+| wrangler | 4.103.0 | 4.157.0 | 2 | site 4.95.0 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.1.0 | 12 | — |
 | bun | 1.4.3 | 1.4.4 | 11 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
@@ -59,7 +58,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | eslint-plugin-unicorn | 63.0.0 | 79.0.0 | 12 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
 | lefthook | 2.1.1 | 2.2.2 | 11 | — |
-| oxlint | 1.86.0 | 1.90.0 | 2 | — |
+| oxlint | 1.86.0 | 1.91.0 | 2 | — |
 | pixi.js | 8.22.0 | 8.22.0 | 2 | — |
 | tsdown | 0.22.1 | 0.23.4 | 11 | — |
 | typescript-eslint | 8.58.0 | 8.72.1 | 11 | — |
