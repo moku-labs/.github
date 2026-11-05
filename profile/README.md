@@ -72,7 +72,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | feed | web | 5.2.0 | 6.0.0 |
 | immer | game | 11.1.18 | 11.2.9 |
 | maxrects-packer | game | 2.7.3 | 3.0.0 |
-| openai | ai | ^6.45.0 | 7.50.0 |
+| openai | ai | ^6.45.0 | 7.51.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.1.1 |
 | preact | site | 10.29.2 | 11.1.1 |
