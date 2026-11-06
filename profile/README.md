@@ -36,7 +36,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @arethetypeswrong/cli | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @axe-core/playwright | 4.14.0 | 4.14.0 | 2 | editor 4.13.0 |
-| @biomejs/biome | 2.4.16 | 2.6.5 | 12 | core 2.4.2 |
+| @biomejs/biome | 2.4.16 | 2.6.6 | 12 | core 2.4.2 |
 | @cloudflare/workers-types | 4.20260621.1 | 5.20261106.1 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.64.1 | 1.65.0 | 3 | editor 1.63.0, room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.4 | 12 | ci 1.3.14 |
@@ -55,9 +55,9 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | eslint-plugin-unicorn | 63.0.0 | 79.0.0 | 12 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
 | lefthook | 2.1.1 | 2.2.2 | 11 | — |
-| oxlint | 1.86.0 | 1.91.0 | 2 | — |
+| oxlint | 1.86.0 | 1.92.0 | 2 | — |
 | pixi.js | 8.22.0 | 8.22.0 | 2 | — |
-| tsdown | 0.22.1 | 0.23.5 | 11 | — |
+| tsdown | 0.22.1 | 0.23.7 | 11 | — |
 | typescript-eslint | 8.58.0 | 8.72.1 | 11 | — |
 | vitest | 4.0.18 | 5.1.0 | 12 | — |
 
