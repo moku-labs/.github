@@ -76,11 +76,11 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | feed | web | 5.2.0 | 6.0.0 |
 | immer | game | 11.1.18 | 11.2.10 |
 | maxrects-packer | game | 2.7.3 | 3.0.0 |
-| openai | ai | ^6.45.0 | 7.55.0 |
+| openai | ai | ^6.45.0 | 7.56.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.2.0 |
 | preact | site | 10.29.2 | 11.2.0 |
-| preact-render-to-string | site | 6.6.0 | 6.8.2 |
+| preact-render-to-string | site | 6.6.0 | 6.8.3 |
 | satori | web | 0.19.1 | 0.63.2 |
 | shiki | web | 3.22.0 | 4.6.0 |
 | unist-util-visit | web | 5.1.0 | 5.2.0 |
