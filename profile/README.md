@@ -14,7 +14,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
 | [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 red, 1 bot)](https://github.com/moku-labs/demos/pulls) | — |
 | [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.21](https://github.com/moku-labs/editor/releases/tag/v0.10.21) | 0.10.21 | 0 | [1 (1 red, 1 bot)](https://github.com/moku-labs/editor/pulls) | — |
-| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.116](https://github.com/moku-labs/game/releases/tag/v0.15.116) | 0.15.116 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
+| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.117](https://github.com/moku-labs/game/releases/tag/v0.15.117) | 0.15.117 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.15](https://github.com/moku-labs/native/releases/tag/v0.3.15) | 0.3.15 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.18](https://github.com/moku-labs/room/releases/tag/v0.8.18) | 0.8.18 | 0 | [0](https://github.com/moku-labs/room/pulls) | — |
 | [site](https://github.com/moku-labs/site) | [🟢](https://github.com/moku-labs/site/actions) | — | — | — | — | [2 (1 red, 1 bot)](https://github.com/moku-labs/site/pulls) | ai 0.16.13, game 0.15.95 |
@@ -49,7 +49,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | sharp | 0.35.5 | 0.35.5 | 2 | game 0.34.5 |
 | typescript | 6.0.3 | 7.0.2 | 12 | site 7.0.2 |
-| wrangler | 4.103.0 | 4.160.1 | 2 | site 4.95.0 |
+| wrangler | 4.103.0 | 4.161.0 | 2 | site 4.95.0 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.1.0 | 12 | — |
 | bun | 1.4.3 | 1.4.4 | 11 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
