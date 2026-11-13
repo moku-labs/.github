@@ -40,9 +40,9 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @axe-core/playwright | 4.14.0 | 4.14.0 | 2 | editor 4.13.0 |
 | @biomejs/biome | 2.4.16 | 2.6.7 | 12 | core 2.4.2 |
 | @cloudflare/workers-types | 4.20260621.1 | 5.20261113.1 | 2 | worker 4.20260617.1 |
-| @playwright/test | 1.64.1 | 1.65.0 | 3 | editor 1.63.0, room 1.61.0 |
+| @playwright/test | 1.64.1 | 1.65.1 | 3 | editor 1.63.0, room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.4 | 12 | ci 1.3.14 |
-| eslint | 9.39.3 | 10.14.0 | 11 | core 9 |
+| eslint | 9.39.3 | 10.15.0 | 11 | core 9 |
 | eslint-plugin-jsdoc | 62.6.0 | 65.4.6 | 12 | site 65.1.0 |
 | globals | 17.4.0 | 17.14.0 | 11 | core 17.3.0 |
 | happy-dom | 20.14.5 | 21.0.4 | 2 | web 20.9.0 |
@@ -76,7 +76,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | feed | web | 5.2.0 | 6.0.0 |
 | immer | game | 11.1.18 | 11.2.10 |
 | maxrects-packer | game | 2.7.3 | 3.0.0 |
-| openai | ai | ^6.45.0 | 7.56.0 |
+| openai | ai | ^6.45.0 | 7.57.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.2.0 |
 | preact | site | 10.29.2 | 11.2.0 |
