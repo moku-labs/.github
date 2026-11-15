@@ -14,7 +14,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
 | [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 red, 1 bot)](https://github.com/moku-labs/demos/pulls) | — |
 | [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.22](https://github.com/moku-labs/editor/releases/tag/v0.10.22) | 0.10.22 | 0 | [1 (1 red, 1 bot)](https://github.com/moku-labs/editor/pulls) | — |
-| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.123](https://github.com/moku-labs/game/releases/tag/v0.15.123) | 0.15.123 | 0 | [1](https://github.com/moku-labs/game/pulls) | — |
+| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.125](https://github.com/moku-labs/game/releases/tag/v0.15.125) | 0.15.125 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.15](https://github.com/moku-labs/native/releases/tag/v0.3.15) | 0.3.15 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.18](https://github.com/moku-labs/room/releases/tag/v0.8.18) | 0.8.18 | 0 | [0](https://github.com/moku-labs/room/pulls) | — |
 | [site](https://github.com/moku-labs/site) | [🟢](https://github.com/moku-labs/site/actions) | — | — | — | — | [2 (1 red, 1 bot)](https://github.com/moku-labs/site/pulls) | ai 0.16.13, editor 0.10.21, game 0.15.95 |
@@ -27,7 +27,6 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 - [claude](https://github.com/moku-labs/claude): PR #98 is green and not merged
 - [demos](https://github.com/moku-labs/demos): PR #85 has red checks
 - [editor](https://github.com/moku-labs/editor): PR #67 has red checks
-- [game](https://github.com/moku-labs/game): PR #198 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #75 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #77 has red checks
 
@@ -39,12 +38,12 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @arethetypeswrong/cli | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @axe-core/playwright | 4.14.0 | 4.14.0 | 2 | editor 4.13.0 |
-| @biomejs/biome | 2.4.16 | 2.6.7 | 12 | core 2.4.2 |
+| @biomejs/biome | 2.4.16 | 2.6.8 | 12 | core 2.4.2 |
 | @cloudflare/workers-types | 4.20260621.1 | 5.20261115.1 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.64.1 | 1.65.1 | 3 | editor 1.63.0, room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.4 | 12 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.15.0 | 11 | core 9 |
-| eslint-plugin-jsdoc | 62.6.0 | 65.4.7 | 12 | site 65.1.0 |
+| eslint-plugin-jsdoc | 62.6.0 | 65.4.8 | 12 | site 65.1.0 |
 | globals | 17.4.0 | 17.14.0 | 11 | core 17.3.0 |
 | happy-dom | 20.14.5 | 21.0.4 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
@@ -55,7 +54,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | bun | 1.4.3 | 1.4.4 | 11 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
-| eslint-plugin-unicorn | 63.0.0 | 79.0.0 | 12 | — |
+| eslint-plugin-unicorn | 63.0.0 | 80.0.0 | 12 | — |
 | jiti | 2.6.1 | 2.7.0 | 11 | — |
 | lefthook | 2.1.1 | 2.2.2 | 11 | — |
 | oxlint | 1.86.0 | 1.93.0 | 2 | — |
