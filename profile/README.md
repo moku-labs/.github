@@ -9,12 +9,12 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ai](https://github.com/moku-labs/ai) | [🟢](https://github.com/moku-labs/ai/actions) | [🟢](https://github.com/moku-labs/ai/actions/workflows/publish.yml) | [v0.16.16](https://github.com/moku-labs/ai/releases/tag/v0.16.16) | 0.16.16 | 0 | [0](https://github.com/moku-labs/ai/pulls) | — |
 | [ci](https://github.com/moku-labs/ci) | [🟢](https://github.com/moku-labs/ci/actions) | [🟢](https://github.com/moku-labs/ci/actions/workflows/publish.yml) | [v1.5.8](https://github.com/moku-labs/ci/releases/tag/v1.5.8) | 1.5.8 | 0 | [0](https://github.com/moku-labs/ci/pulls) | — |
-| [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [1](https://github.com/moku-labs/claude/pulls) | — |
-| [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.11](https://github.com/moku-labs/common/releases/tag/v0.3.11) | 0.3.11 | 0 | [0](https://github.com/moku-labs/common/pulls) | — |
+| [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [2](https://github.com/moku-labs/claude/pulls) | — |
+| [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.11](https://github.com/moku-labs/common/releases/tag/v0.3.11) | 0.3.11 | 0 | [1](https://github.com/moku-labs/common/pulls) | — |
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
 | [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 red, 1 bot)](https://github.com/moku-labs/demos/pulls) | — |
 | [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.22](https://github.com/moku-labs/editor/releases/tag/v0.10.22) | 0.10.22 | 0 | [1 (1 red, 1 bot)](https://github.com/moku-labs/editor/pulls) | — |
-| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.125](https://github.com/moku-labs/game/releases/tag/v0.15.125) | 0.15.125 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
+| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.125](https://github.com/moku-labs/game/releases/tag/v0.15.125) | 0.15.125 | 0 | [5](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.15](https://github.com/moku-labs/native/releases/tag/v0.3.15) | 0.3.15 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.18](https://github.com/moku-labs/room/releases/tag/v0.8.18) | 0.8.18 | 0 | [0](https://github.com/moku-labs/room/pulls) | — |
 | [site](https://github.com/moku-labs/site) | [🟢](https://github.com/moku-labs/site/actions) | — | — | — | — | [2 (1 red, 1 bot)](https://github.com/moku-labs/site/pulls) | ai 0.16.13, editor 0.10.21, game 0.15.95 |
@@ -25,8 +25,14 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 **Waits for a person**
 
 - [claude](https://github.com/moku-labs/claude): PR #98 is green and not merged
+- [claude](https://github.com/moku-labs/claude): PR #119 is green and not merged
+- [common](https://github.com/moku-labs/common): PR #23 is green and not merged
 - [demos](https://github.com/moku-labs/demos): PR #85 has red checks
 - [editor](https://github.com/moku-labs/editor): PR #67 has red checks
+- [game](https://github.com/moku-labs/game): PR #200 is green and not merged
+- [game](https://github.com/moku-labs/game): PR #201 is green and not merged
+- [game](https://github.com/moku-labs/game): PR #202 is green and not merged
+- [game](https://github.com/moku-labs/game): PR #203 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #75 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #77 has red checks
 
