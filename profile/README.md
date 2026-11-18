@@ -26,7 +26,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 
 - [claude](https://github.com/moku-labs/claude): PR #98 is green and not merged
 - [demos](https://github.com/moku-labs/demos): PR #86 has red checks
-- [game](https://github.com/moku-labs/game): PR #224 is green and not merged
+- [game](https://github.com/moku-labs/game): PR #225 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #75 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #78 has red checks
 
@@ -39,7 +39,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @axe-core/playwright | 4.14.0 | 4.14.0 | 2 | editor 4.13.0 |
 | @biomejs/biome | 2.4.16 | 2.6.8 | 12 | core 2.4.2 |
-| @cloudflare/workers-types | 4.20260621.1 | 5.20261117.1 | 2 | worker 4.20260617.1 |
+| @cloudflare/workers-types | 4.20260621.1 | 5.20261118.1 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.64.1 | 1.65.1 | 3 | editor 1.63.0, room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.4 | 12 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.15.0 | 11 | core 9 |
@@ -76,7 +76,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | feed | web | 5.2.0 | 6.0.0 |
 | immer | game | 11.1.18 | 11.2.10 |
 | maxrects-packer | game | 2.7.3 | 3.0.0 |
-| openai | ai | ^6.45.0 | 7.58.0 |
+| openai | ai | ^6.45.0 | 7.59.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.2.0 |
 | preact | site | 10.29.2 | 11.2.0 |
