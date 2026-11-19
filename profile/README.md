@@ -25,7 +25,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 **Waits for a person**
 
 - [claude](https://github.com/moku-labs/claude): PR #98 is green and not merged
-- [demos](https://github.com/moku-labs/demos): PR #86 has red checks
+- [demos](https://github.com/moku-labs/demos): PR #87 has red checks
 - [site](https://github.com/moku-labs/site): PR #75 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #78 has red checks
 
@@ -42,7 +42,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @playwright/test | 1.64.1 | 1.65.1 | 3 | editor 1.63.0, room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.4 | 12 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.15.0 | 11 | core 9 |
-| eslint-plugin-jsdoc | 62.6.0 | 65.4.12 | 12 | site 65.1.0 |
+| eslint-plugin-jsdoc | 62.6.0 | 65.5.0 | 12 | site 65.1.0 |
 | globals | 17.4.0 | 17.14.0 | 11 | core 17.3.0 |
 | happy-dom | 20.14.5 | 21.0.4 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
