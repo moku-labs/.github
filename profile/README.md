@@ -50,7 +50,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | typescript | 6.0.3 | 7.0.2 | 12 | site 7.0.2 |
 | wrangler | 4.103.0 | 4.165.0 | 2 | site 4.95.0 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.1.1 | 12 | — |
-| bun | 1.4.3 | 1.4.4 | 11 | — |
+| bun | 1.4.3 | 1.4.5 | 11 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
 | eslint-plugin-sonarjs | 4.0.0 | 4.2.2 | 11 | — |
 | eslint-plugin-unicorn | 63.0.0 | 80.0.0 | 12 | — |
