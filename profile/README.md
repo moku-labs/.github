@@ -38,7 +38,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @axe-core/playwright | 4.14.0 | 4.14.0 | 2 | editor 4.13.0 |
 | @biomejs/biome | 2.4.16 | 2.6.8 | 12 | core 2.4.2 |
-| @cloudflare/workers-types | 4.20260621.1 | 5.20261118.1 | 2 | worker 4.20260617.1 |
+| @cloudflare/workers-types | 4.20260621.1 | 5.20261119.1 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.64.1 | 1.65.1 | 3 | editor 1.63.0, room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.4 | 12 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.15.0 | 11 | core 9 |
@@ -48,7 +48,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | sharp | 0.35.5 | 0.35.5 | 2 | game 0.34.5 |
 | typescript | 6.0.3 | 7.0.2 | 12 | site 7.0.2 |
-| wrangler | 4.103.0 | 4.164.0 | 2 | site 4.95.0 |
+| wrangler | 4.103.0 | 4.165.0 | 2 | site 4.95.0 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.1.1 | 12 | — |
 | bun | 1.4.3 | 1.4.4 | 11 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
