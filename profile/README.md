@@ -48,7 +48,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | sharp | 0.35.5 | 0.35.5 | 2 | game 0.34.5 |
 | typescript | 6.0.3 | 7.0.2 | 12 | site 7.0.2 |
-| wrangler | 4.103.0 | 4.165.0 | 2 | site 4.95.0 |
+| wrangler | 4.103.0 | 4.166.0 | 2 | site 4.95.0 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.1.1 | 12 | — |
 | bun | 1.4.3 | 1.4.5 | 11 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
