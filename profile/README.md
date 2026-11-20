@@ -7,7 +7,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 <!-- fleet:start -->
 | Repo | CI | Release | Tag | npm | Not released | PRs | Old pins |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ai](https://github.com/moku-labs/ai) | [🟢](https://github.com/moku-labs/ai/actions) | [🟢](https://github.com/moku-labs/ai/actions/workflows/publish.yml) | [v0.16.16](https://github.com/moku-labs/ai/releases/tag/v0.16.16) | 0.16.16 | 0 | [0](https://github.com/moku-labs/ai/pulls) | — |
+| [ai](https://github.com/moku-labs/ai) | [🟢](https://github.com/moku-labs/ai/actions) | [🟢](https://github.com/moku-labs/ai/actions/workflows/publish.yml) | [v0.16.17](https://github.com/moku-labs/ai/releases/tag/v0.16.17) | 0.16.17 | 0 | [0](https://github.com/moku-labs/ai/pulls) | — |
 | [ci](https://github.com/moku-labs/ci) | [🟢](https://github.com/moku-labs/ci/actions) | [🟢](https://github.com/moku-labs/ci/actions/workflows/publish.yml) | [v1.5.8](https://github.com/moku-labs/ci/releases/tag/v1.5.8) | 1.5.8 | 0 | [0](https://github.com/moku-labs/ci/pulls) | — |
 | [claude](https://github.com/moku-labs/claude) | [🟢](https://github.com/moku-labs/claude/actions) | — | — | — | — | [1](https://github.com/moku-labs/claude/pulls) | — |
 | [common](https://github.com/moku-labs/common) | [🟢](https://github.com/moku-labs/common/actions) | [🟢](https://github.com/moku-labs/common/actions/workflows/publish.yml) | [v0.3.12](https://github.com/moku-labs/common/releases/tag/v0.3.12) | 0.3.12 | 0 | [0](https://github.com/moku-labs/common/pulls) | — |
