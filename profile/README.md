@@ -42,7 +42,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | @playwright/test | 1.64.1 | 1.65.1 | 3 | editor 1.63.0, room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.5 | 12 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.15.0 | 11 | core 9 |
-| eslint-plugin-jsdoc | 62.6.0 | 65.5.0 | 12 | site 65.1.0 |
+| eslint-plugin-jsdoc | 62.6.0 | 65.5.1 | 12 | site 65.1.0 |
 | globals | 17.4.0 | 17.14.0 | 11 | core 17.3.0 |
 | happy-dom | 20.14.5 | 21.0.4 | 2 | web 20.9.0 |
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
