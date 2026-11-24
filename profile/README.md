@@ -31,15 +31,15 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 - [site](https://github.com/moku-labs/site): PR #80 has red checks
 
 <details>
-<summary>Toolchain: 27 shared tools, 15 on more than one version, 24 behind npm</summary>
+<summary>Toolchain: 27 shared tools, 15 on more than one version, 25 behind npm</summary>
 
 | Tool | Accepted | npm | Used by | Not on it |
 | --- | --- | --- | --- | --- |
 | @arethetypeswrong/cli | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
 | @arethetypeswrong/core | 0.18.3 | 0.18.5 | 9 | core 0.18.2 |
-| @axe-core/playwright | 4.14.0 | 4.14.0 | 2 | editor 4.13.0 |
-| @biomejs/biome | 2.4.16 | 2.6.8 | 12 | core 2.4.2 |
-| @cloudflare/workers-types | 4.20260621.1 | 5.20261124.1 | 2 | worker 4.20260617.1 |
+| @axe-core/playwright | 4.14.0 | 4.14.1 | 2 | editor 4.13.0 |
+| @biomejs/biome | 2.4.16 | 2.6.9 | 12 | core 2.4.2 |
+| @cloudflare/workers-types | 4.20260621.1 | 5.20261124.2 | 2 | worker 4.20260617.1 |
 | @playwright/test | 1.64.1 | 1.65.1 | 3 | editor 1.63.0, room 1.61.0 |
 | @types/bun | 1.4.2 | 1.4.5 | 12 | ci 1.3.14 |
 | eslint | 9.39.3 | 10.15.0 | 11 | core 9 |
@@ -49,7 +49,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | publint | 0.3.21 | 0.3.25 | 11 | core 0.3.17 |
 | sharp | 0.35.5 | 0.35.5 | 2 | game 0.34.5 |
 | typescript | 6.0.3 | 7.0.2 | 12 | site 7.0.2 |
-| wrangler | 4.103.0 | 4.167.0 | 2 | site 4.95.0 |
+| wrangler | 4.103.0 | 4.168.0 | 2 | site 4.95.0 |
 | @vitest/coverage-istanbul | 4.0.18 | 5.1.1 | 12 | — |
 | bun | 1.4.3 | 1.4.5 | 11 | — |
 | eslint-config-biome | 2.1.3 | 2.1.3 | 11 | — |
@@ -76,7 +76,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | feed | web | 5.2.0 | 6.0.0 |
 | immer | game | 11.1.18 | 11.2.10 |
 | maxrects-packer | game | 2.7.3 | 3.0.0 |
-| openai | ai | ^6.45.0 | 7.63.0 |
+| openai | ai | ^6.45.0 | 7.64.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
 | preact | editor | 10.29.8 | 11.2.0 |
 | preact | site | 10.29.2 | 11.2.0 |
