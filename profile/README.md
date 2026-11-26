@@ -14,12 +14,12 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | [core](https://github.com/moku-labs/core) | [🟢](https://github.com/moku-labs/core/actions) | [🟢](https://github.com/moku-labs/core/actions/workflows/publish.yml) | [v1.7.6](https://github.com/moku-labs/core/releases/tag/v1.7.6) | 1.7.6 | 0 | [0](https://github.com/moku-labs/core/pulls) | — |
 | [demos](https://github.com/moku-labs/demos) | [🟢](https://github.com/moku-labs/demos/actions) | — | — | — | — | [1 (1 red, 1 bot)](https://github.com/moku-labs/demos/pulls) | — |
 | [editor](https://github.com/moku-labs/editor) | [🟢](https://github.com/moku-labs/editor/actions) | [🟢](https://github.com/moku-labs/editor/actions/workflows/publish.yml) | [v0.10.22](https://github.com/moku-labs/editor/releases/tag/v0.10.22) | 0.10.22 | 0 | [1 (1 red, 1 bot)](https://github.com/moku-labs/editor/pulls) | — |
-| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.177](https://github.com/moku-labs/game/releases/tag/v0.15.177) | 0.15.177 | 0 | [1 (1 red)](https://github.com/moku-labs/game/pulls) | — |
+| [game](https://github.com/moku-labs/game) | [🟢](https://github.com/moku-labs/game/actions) | [🟢](https://github.com/moku-labs/game/actions/workflows/publish.yml) | [v0.15.182](https://github.com/moku-labs/game/releases/tag/v0.15.182) | 0.15.182 | 0 | [0](https://github.com/moku-labs/game/pulls) | — |
 | [native](https://github.com/moku-labs/native) | [🟢](https://github.com/moku-labs/native/actions) | [🟢](https://github.com/moku-labs/native/actions/workflows/publish.yml) | [v0.3.16](https://github.com/moku-labs/native/releases/tag/v0.3.16) | 0.3.16 | 0 | [0](https://github.com/moku-labs/native/pulls) | — |
 | [room](https://github.com/moku-labs/room) | [🟢](https://github.com/moku-labs/room/actions) | [🟢](https://github.com/moku-labs/room/actions/workflows/publish.yml) | [v0.8.18](https://github.com/moku-labs/room/releases/tag/v0.8.18) | 0.8.18 | 0 | [0](https://github.com/moku-labs/room/pulls) | — |
 | [site](https://github.com/moku-labs/site) | [🟢](https://github.com/moku-labs/site/actions) | — | — | — | — | [2 (1 red, 1 bot)](https://github.com/moku-labs/site/pulls) | ai 0.16.13, editor 0.10.21, game 0.15.95, native 0.3.15, web 2.4.19 |
 | [system](https://github.com/moku-labs/system) | [🟢](https://github.com/moku-labs/system/actions) | [🟢](https://github.com/moku-labs/system/actions/workflows/publish.yml) | [v0.3.8](https://github.com/moku-labs/system/releases/tag/v0.3.8) | 0.3.8 | 0 | [0](https://github.com/moku-labs/system/pulls) | — |
-| [web](https://github.com/moku-labs/web) | [🟢](https://github.com/moku-labs/web/actions) | [🟢](https://github.com/moku-labs/web/actions/workflows/publish.yml) | [v2.4.26](https://github.com/moku-labs/web/releases/tag/v2.4.26) | 2.4.26 | 0 | [0](https://github.com/moku-labs/web/pulls) | — |
+| [web](https://github.com/moku-labs/web) | [🟢](https://github.com/moku-labs/web/actions) | [🟢](https://github.com/moku-labs/web/actions/workflows/publish.yml) | [v2.4.27](https://github.com/moku-labs/web/releases/tag/v2.4.27) | 2.4.27 | 0 | [0](https://github.com/moku-labs/web/pulls) | — |
 | [worker](https://github.com/moku-labs/worker) | [🟢](https://github.com/moku-labs/worker/actions) | [🟢](https://github.com/moku-labs/worker/actions/workflows/publish.yml) | [v0.20.11](https://github.com/moku-labs/worker/releases/tag/v0.20.11) | 0.20.11 | 0 | [0](https://github.com/moku-labs/worker/pulls) | — |
 
 **Waits for a person**
@@ -27,7 +27,6 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 - [claude](https://github.com/moku-labs/claude): PR #98 is green and not merged
 - [demos](https://github.com/moku-labs/demos): PR #87 has red checks
 - [editor](https://github.com/moku-labs/editor): PR #72 has red checks
-- [game](https://github.com/moku-labs/game): PR #256 has red checks
 - [site](https://github.com/moku-labs/site): PR #75 is green and not merged
 - [site](https://github.com/moku-labs/site): PR #80 has red checks
 
@@ -75,7 +74,7 @@ The table is written by a workflow every 15 minutes, from `moku-release fleet` o
 | better-sqlite3 | ai | 12.11.1 | 13.2.0 |
 | elkjs | editor | 0.12.0 | 0.12.2 |
 | feed | web | 5.2.0 | 6.0.0 |
-| immer | game | 11.1.18 | 11.2.10 |
+| immer | game | 11.1.18 | 11.2.13 |
 | maxrects-packer | game | 2.7.3 | 3.0.0 |
 | openai | ai | ^6.45.0 | 7.65.0 |
 | p-limit | web | 6.2.0 | 7.3.3 |
